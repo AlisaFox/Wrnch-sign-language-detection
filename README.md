@@ -6,6 +6,8 @@ The image that is being processed will look like the following diagram after it 
 
 Then, the corresponding letter in the English Alphabet will be printed on the console.
 
+We used [wrnchAI](https://devportal.wrnch.ai/wrnchcloud) to get the annotated media and json file.  
+
 #### Methodology
 
 We used the relative distances between hand joints to identify possible translations to the English Alphabet. 
